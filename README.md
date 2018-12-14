@@ -27,3 +27,27 @@ MYSQL TABLE INVENTORY UPDATE
 
 ![](assets/6.png) 
 
+![](assets/7.png) 
+
+# BamazonManager
+BamazonManager edition allows you to:
+
+    * View Products for Sale
+    
+    * View Low Inventory
+     
+    * Add to Inventory
+    
+    * Add New Product
+    
+    * Exit
+    
+## Screenshots Walkthrough 
+
+![](assets/8.png) 
+
+![](assets/9.png) 
+
+![](assets/10.png) 
+
+![](assets/11.png) 
